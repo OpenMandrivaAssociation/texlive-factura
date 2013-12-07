@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-factura
 Version:	20131012
-Release:	1
+Release:	2
 Summary:	TeXLive factura package
 Group:		Publishing
 URL:		http://tug.org/texlive
