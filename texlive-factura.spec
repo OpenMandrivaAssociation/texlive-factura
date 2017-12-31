@@ -1,12 +1,6 @@
-# revision 30167
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-factura
-Version:	20131012
-Release:	9
+Version:	3.40
+Release:	1
 Summary:	TeXLive factura package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -31,11 +25,8 @@ TeXLive factura package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/factura/factura.cls
-%{_texmfdistdir}/tex/latex/factura/factura.def
-%doc %{_texmfdistdir}/doc/latex/factura/README
-%doc %{_texmfdistdir}/doc/latex/factura/factura-modelo-ya.tex
-%doc %{_texmfdistdir}/doc/latex/factura/factura-modelo.tex
+%{_texmfdistdir}/tex/latex/factura
+%doc %{_texmfdistdir}/doc/latex/factura
 
 #-----------------------------------------------------------------------
 %prep
