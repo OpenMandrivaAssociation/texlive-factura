@@ -1,5 +1,5 @@
 Name:		texlive-factura
-Version:	3.47
+Version:	3.56
 Release:	1
 Summary:	TeXLive factura package
 Group:		Publishing
