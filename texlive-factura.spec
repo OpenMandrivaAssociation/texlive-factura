@@ -1,6 +1,6 @@
 Name:		texlive-factura
 Version:	61697
-Release:	1
+Release:	2
 Summary:	TeXLive factura package
 Group:		Publishing
 URL:		http://tug.org/texlive
